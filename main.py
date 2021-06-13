@@ -369,7 +369,7 @@ def main():
             image = Image.open('pic1.jpeg')
             st.image(image, width=750)
             st.write("Fill all the Fields")
-            image = Image.open('picture2.PNG')
+            image = Image.open('pic1.jpeg')
             st.image(image, width=750)
             st.write(" GoTo Login Menu to Use this Tool:")
             image = Image.open('picture3.PNG')
